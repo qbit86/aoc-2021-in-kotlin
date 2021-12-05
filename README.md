@@ -1,25 +1,20 @@
-# aoc-2021-in-kotlin
+# Advent of Code 2021 in Kotlin
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [qbit86][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Hi! I'm Viktor `<qbit86@gmail.com>`, software developer from Russia.
+Here I'm going to solve a couple of puzzles from Advent of Code 2021 [1] in Kotlin.
+This repository is created using Advent of Code Kotlin Template by JetBrains [2] as a part of the challenge [3].
 
-In this repository, qbit86 is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+The solutions are organized as branches in this repository, not subfolders in the main branch as suggested.
+For example, solution for “Day 4: Giant Squid” is placed under **feature/day-04** branch.
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+I'm not very familiar with Kotlin and programming for JVM, but I'll do my best to follow conventions [4] and idioms [5].
 
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
+[1] Advent of Code https://adventofcode.com/2021/about
 
+[2] Advent of Code Kotlin Template https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
 
-[^aoc]:
-    [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
-    Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
-    You can solve the puzzle and provide an answer using the language of your choice.
+[3] Advent of Code 2021 in Kotlin https://blog.jetbrains.com/kotlin/2021/11/advent-of-code-2021-in-kotlin/
 
-[aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
-[github]: https://github.com/qbit86
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
-[kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
-[template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+[4] Coding conventions https://kotlinlang.org/docs/coding-conventions.html
+
+[5] Idioms https://kotlinlang.org/docs/idioms.html
