@@ -1,0 +1,9 @@
+*   text=auto
+
+.editorconfig   text
+.gitattributes  text
+.gitignore  text
+*.kt    text diff=kotlin
+*.kts   text
+*.md    text
+*.txt   text
