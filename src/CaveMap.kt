@@ -21,5 +21,8 @@ class CaveMap private constructor(private val neighborsByCave: Map<String, Colle
 
             return CaveMap(neighborsByCave)
         }
+
+        internal fun isBig(cave: String): Boolean = cave[0].isUpperCase()
+        internal fun isSmall(cave: String): Boolean = !isBig(cave)
     }
 }
